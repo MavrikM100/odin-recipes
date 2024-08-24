@@ -1,0 +1,2 @@
+The current project is a basic HTML recipe website. It's not meant to look beautiful,
+only to showcase a basic understanding of HTML. We are looking to understand a working knowledge of text, fundamental elements such as paragraphs and headings, as well as attributes. We'll use images to make the site more visually appealing.
